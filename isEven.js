@@ -1,4 +1,4 @@
-function isEven(num) { 
+export function isEven(num) { 
 	let result = "maybe"
 	if (num == 0)
 		result = true; 
