@@ -11,5 +11,5 @@ import { isEven } from "<path to your installation>";
 isEven(5); //false
 isEven(6); //true
 ```
-Unfortunatly, is-even only supports 16 bit numbers.\n
+Unfortunatly, is-even only supports 16 bit numbers.
 support for 24 bit should come sooon
